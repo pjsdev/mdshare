@@ -1,3 +1,7 @@
+Lots of vibes and hand waving, but a start. 
+
+---
+
 
 | Domains          | Starting Evasion | Starting Hit Points |
 | ---------------- | ---------------- | ------------------- |
