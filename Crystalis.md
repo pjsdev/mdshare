@@ -83,7 +83,7 @@ Healing doesn't create new hit points—it simply recovers ones you've already l
 
 Diamonds are known as **Crystals**.
 
-Every hero may spend a Diamond as an action to retrieve **one card of their choice** from their discard pile into their hand.
+Every hero may spend a Diamond as an action to play **one card of their choice** from their discard pile or equal or lower rank than the diamond played.
 
 Most heroes also use Diamonds to power unique abilities.
 
